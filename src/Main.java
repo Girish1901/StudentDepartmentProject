@@ -5,9 +5,8 @@ public class Main {
         Dept CSE=new Dept("CSE","CSE");
         Dept ECE=new Dept("ECE","ECE");
         Dept ME=new Dept("ME","ME");
-        Dept DS=new Dept("Data Science","Murthunjaya");
-//        DS.addStudent(new Student("Girish","1rl22cd017"));
-//        DS.addStudent(new Student("Harshith","1rl22cd021"));
+        Dept DS=new Dept("Data Science","XX");
+
         Student s1=new Student("Xyx","cd011");
         Student s2=new Student("YYY","cd022");
 
